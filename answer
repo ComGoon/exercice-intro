@@ -1,0 +1,35 @@
+<!--Author: Oussoumane Mhaman Madani (GOMYC{}DE)-->
+
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Introduction PHP</title>
+</head>
+<body>  <!--body tag of the HTML-->
+
+
+<?php //opening the tag of PHP
+/**
+ * Created by PhpStorm.
+ * User: comgoon
+ * Date: 8/11/18
+ * Time: 3:57 PM
+ */
+
+echo "Ceci est une ligne créée uniquement en PHP<br>";
+echo "Ceci est la 2ème phrase créée avec PHP<br>";
+echo'<a href="http://gomycode.tn" target="_blank" > GOMYC{}DE </a>';  //link to the gomycode website
+
+?> <!--closing tag of the PHP--> <!--the comment is an html comment cause it's outside the PHP closing tag-->
+
+
+</body>  <!--body closing tag of the HTML-->
+</html>
+
+
+
